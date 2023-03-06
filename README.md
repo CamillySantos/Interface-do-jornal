@@ -4,6 +4,7 @@
 Esse jornal é um jornal mexicano com mais de 20 anos de existência, houve algumas versões do site durante esse tempo, até chegar nos dias de hoje. Esse jornal tem versão impressa que é dada ao usuário para caso tenha interesse.
 
 Fiz algumas melhorias no layout do site para que fique mais agradável aos olhos do usuário e que ele se localize caso queira se mover de uma página a outra.
+
 A seguir o link do site original.
 
 https://unomasuno.com.mx/
