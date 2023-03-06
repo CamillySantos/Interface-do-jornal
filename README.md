@@ -11,4 +11,4 @@ https://unomasuno.com.mx/
 
 O link da interface no figma com as melhorias está no link a seguir.
 
-https://www.figma.com/file/hU2qMnyt4Zza6YlTCsRnoo/Interface-do-jornal?node-id=0%3A1&t=6UqDSU735Qj7Is5B-1
+https://www.figma.com/proto/hU2qMnyt4Zza6YlTCsRnoo/Interface-do-jornal?node-id=10%3A630&scaling=scale-down-width&page-id=0%3A1
