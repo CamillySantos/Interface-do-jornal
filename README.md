@@ -9,6 +9,9 @@ A seguir o link do site original.
 
 https://unomasuno.com.mx/
 
-O link da interface no figma com as melhorias está no link a seguir.
+O link da interface no figma com as melhorias está no  link ou no vídeo a seguir
 
 https://www.figma.com/proto/hU2qMnyt4Zza6YlTCsRnoo/Interface-do-jornal?node-id=10%3A630&scaling=scale-down-width&page-id=0%3A1
+
+https://github.com/CamillySantos/Interface-do-jornal/assets/105953740/d4ed21d4-1020-45d8-a7e4-3c69b1b29567
+
